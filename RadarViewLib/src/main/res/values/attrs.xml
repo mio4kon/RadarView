@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="RadarView">
+        <attr name="lineColor" format="color"/>
+        <attr name="textColor" format="color"/>
+        <attr name="abilityColor" format="color"/>
+        <attr name="abilityLineColor" format="color"/>
+        <attr name="textSize" format="dimension"/>
+        <attr name="radius" format="dimension"/>
+
+    </declare-styleable>
+</resources>
